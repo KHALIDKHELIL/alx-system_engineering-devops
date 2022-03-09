@@ -1,0 +1,2 @@
+echo $((BREATH**LOVE))
+#!bin/bash
